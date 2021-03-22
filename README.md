@@ -9,17 +9,27 @@ _______
 
   <img height="30" src="https://raw.githubusercontent.com/robsonad18/robsonad18/master/assets/images/icons/php.png" title="PHP">
 
-  <img height="30" src="https://raw.githubusercontent.com/robsonad18/robsonad18/master/assets/images/icons/vue.png" title="VueJS">
-
   <img height="30" src="https://raw.githubusercontent.com/robsonad18/robsonad18/master/assets/images/icons/html.png" title="HTML">
+  
+  <img height="30" src="https://raw.githubusercontent.com/robsonad18/robsonad18/master/assets/images/icons/css.png" title="CSS">
 
   <img height="30" src="https://raw.githubusercontent.com/robsonad18/robsonad18/master/assets/images/icons/js.png" title="JavaScript">
 
-  <img height="30" src="https://raw.githubusercontent.com/robsonad18/robsonad18/master/assets/images/icons/css.png" title="CSS">
+  <img height="30" src="https://raw.githubusercontent.com/robsonad18/robsonad18/master/assets/images/icons/vue.png" title="VueJS">
+
+  <img height="30" src="https://raw.githubusercontent.com/robsonad18/robsonad18/master/assets/images/icons/ts.png" title="Typescript">
+
+  <img height="30" src="https://raw.githubusercontent.com/robsonad18/robsonad18/master/assets/images/icons/jquery.png" title="Jquery">
+
+  <img height="30" src="https://raw.githubusercontent.com/robsonad18/robsonad18/master/assets/images/icons/api.png" title="Api">
 
   <img height="30" src="https://raw.githubusercontent.com/robsonad18/robsonad18/master/assets/images/icons/git.png" title="Git">
 
+  <img height="30" src="https://raw.githubusercontent.com/robsonad18/robsonad18/master/assets/images/icons/debian.png" title="Debian">
+
   <img height="30" src="https://raw.githubusercontent.com/robsonad18/robsonad18/master/assets/images/icons/linux.png" title="Linux <3">
+
+
 
 </div>
 
