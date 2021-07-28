@@ -26,8 +26,6 @@ _______
 
   <img height="30" src="https://raw.githubusercontent.com/robsonad18/robsonad18/master/assets/images/icons/sql.png" title="Sql">
 
-  <img height="30" src="https://raw.githubusercontent.com/robsonad18/robsonad18/master/assets/images/icons/api.png" title="Api">
-
   <img height="30" src="https://raw.githubusercontent.com/robsonad18/robsonad18/master/assets/images/icons/git.png" title="Git">
 
   <img height="30" src="https://raw.githubusercontent.com/robsonad18/robsonad18/master/assets/images/icons/popos.png" title="Debian">
