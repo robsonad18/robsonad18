@@ -42,6 +42,8 @@ _______
   <img height="30" src="https://raw.githubusercontent.com/robsonad18/robsonad18/master/assets/images/icons/node.png" title="Node">
 
   <img height="30" src="https://raw.githubusercontent.com/robsonad18/robsonad18/master/assets/images/icons/dart.png" title="Dart">
+
+  <img height="30" src="https://raw.githubusercontent.com/robsonad18/robsonad18/master/assets/images/icons/codeigniter.png" title="Codeigniter">
 </div>
 _______
 
