@@ -1,9 +1,9 @@
 # Robson Lucas
 
-❤️ Programador por amor
+❤️ Programmer for love ❤️
 _______
 
-## Stack atual
+## Current stack
 
 <div style="display:flex; justify-content:flex-start; align-items:center;">
 
@@ -34,7 +34,7 @@ _______
 
 _______
 
-## Estudando
+## Studying
 <div style="display:flex; justify-content:flex-start; align-items:center;">
 
   <img height="30" src="https://raw.githubusercontent.com/robsonad18/robsonad18/master/assets/images/icons/react.png" title="React">
@@ -48,7 +48,7 @@ _______
 _______
 
 
-## Redes sociais
+## Social networks
 <div style="display:flex; justify-content:flex-start; align-items:center;">
   <a href="https://www.facebook.com/robson.lucas.50767/" target="_blank">
     <img height="30" src="https://raw.githubusercontent.com/robsonad18/robsonad18/master/assets/images/icons/facebook.png" title="Facebook">
