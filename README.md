@@ -22,6 +22,8 @@ _______
 
   <img height="30" src="https://raw.githubusercontent.com/robsonad18/robsonad18/master/assets/images/icons/c.png" title="C#">
 
+  <img height="30" src="https://raw.githubusercontent.com/robsonad18/robsonad18/master/assets/images/icons/mongodb.png" title="Mongo DB">
+
   <img height="30" src="https://raw.githubusercontent.com/robsonad18/robsonad18/master/assets/images/icons/sql.png" title="Sql">
 
   <img height="30" src="https://raw.githubusercontent.com/robsonad18/robsonad18/master/assets/images/icons/git.png" title="Git">
