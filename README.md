@@ -18,7 +18,7 @@ _______
 
    <img height="30" src="https://raw.githubusercontent.com/robsonad18/robsonad18/master/assets/images/icons/react.png" title="React">
 
-  <img height="30" src="https://raw.githubusercontent.com/robsonad18/robsonad18/master/assets/images/icons/c.png" title="C#">
+  <img height="30" src="https://raw.githubusercontent.com/robsonad18/robsonad18/master/assets/images/icons/csharp.png" title="C#">
 
   <img height="30" src="https://raw.githubusercontent.com/robsonad18/robsonad18/master/assets/images/icons/php.png" title="PHP">
 
