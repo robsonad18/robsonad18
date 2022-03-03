@@ -9,7 +9,6 @@
 <div style="display:flex; justify-content:flex-start; align-items:center;">
 <img height="30" src="https://raw.githubusercontent.com/robsonad18/robsonad18/master/assets/images/icons/php.png" title="PHP">
 <img height="30" src="https://raw.githubusercontent.com/robsonad18/robsonad18/master/assets/images/icons/csharp.png" title="C#">
-<img height="30" src="https://raw.githubusercontent.com/robsonad18/robsonad18/master/assets/images/icons/python.png" title="Python">
 <img height="30" src="https://raw.githubusercontent.com/robsonad18/robsonad18/master/assets/images/icons/mongo.png" title="Mongo DB">
 <img height="30" src="https://raw.githubusercontent.com/robsonad18/robsonad18/master/assets/images/icons/typescript.png" title="Typescript">
 
