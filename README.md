@@ -1,6 +1,6 @@
 # Robson Farias
 
-❤️ Programmer for love ❤️
+❤️ Programmer for love
 
 ---
 
@@ -19,21 +19,3 @@
    <img height="30" src="https://raw.githubusercontent.com/robsonad18/robsonad18/master/assets/images/icons/node.png" title="Node js">
   <img height="30" src="https://raw.githubusercontent.com/robsonad18/robsonad18/master/assets/images/icons/git.png" title="Git">
 </div>
-
----
-
-## Social networks
-
-<div style="display:flex; justify-content:flex-start; align-items:center;">
-  <a href="https://www.facebook.com/robson.lucas.50767/" target="_blank">
-    <img height="30" src="https://raw.githubusercontent.com/robsonad18/robsonad18/master/assets/images/icons/facebook.png" title="Facebook">
-  </a>
-  <a href="https://www.instagram.com/robson_lucas.te/" target="_blank">
-    <img height="30" src="https://raw.githubusercontent.com/robsonad18/robsonad18/master/assets/images/icons/instagram.png" title="Instagram">
-  </a>
-  <a href="https://api.whatsapp.com/send?phone=5518997194891&text=Olá, vim pelo GitHub" target="_blank">
-    <img height="30" src="https://raw.githubusercontent.com/robsonad18/robsonad18/master/assets/images/icons/whatsapp.png" title="Whatsapp">
-  </a>
-  
-</div>
-_______
